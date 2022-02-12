@@ -43,7 +43,7 @@ while len(res[0]) < capacity[0] or len(res[1]) < capacity[1] or len(res[2]) < ca
         popped = mru.pop()
         cur = [popped, settings[popped]]
 
-print("Remember to update jummah_records.txt with all past weekslike this:")
+print("Copy paste into records:")
 print("(Put date here):" + "|".join([(",").join(x) for x in res]) + "\n")
 print("This week's schedule")
 print("1st Jummah: " + ", ".join(res[0]))
