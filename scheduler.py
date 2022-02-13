@@ -1,4 +1,6 @@
-
+#
+## took off Alaa Abdelsalam:1,2,3 from schedule 
+#
 import os
 import sys
 from heapq import *

@@ -1,47 +1,30 @@
 1/14:Omar Serag,Yaseen Ayoub,Ahmed Nakhal,Tanjim Haque|Youssef Serag,Bilal Ali,Tanjim Haque,Zain Jakwani|Youssef Serag,Bilal Ali,Isahaaq Ali,Zain Jakwani
-1/21:Tanjim Haque,Zain Jakwani,Bilal Ali,Alaa Abdelsalam|Samuel Singh,Alaa Abdelsalam,Zain Jakwani,Isahaaq Ali|Alaa Abdelsalam,Umar Nawaz
 1/28:Tanjim Haque,Omar Serag,Yaseen Ayoub|Samuel Singh,Isahaaq Ali,Bilal Ali|Youssef Serag
 2/4:Isahaaq Ali,Bilal Ali,Ahmed Nakhal|Omar Serag,Tanjim Haque,Umar Nawaz|Samuel Singh
 2/11:Zain Jakwani,Abdullah Baig|Ahmed Kilani,Tanjim Haque,Bilal Ali|Shehab Suliman
-(Put date here):Alaa Abdelsalam,Yaseen Ayoub,Youssef Serag|Alaa Abdelsalam,Youssef Serag,Samuel Singh|Samuel Singh
-(Put date here):Alaa Abdelsalam,Yaseen Ayoub,Youssef Serag|Alaa Abdelsalam,Youssef Serag,Samuel Singh|Samuel Singh
 (Put date here):Omar Serag,Zain Jakwani,Abdullah Baig|Isahaaq Ali,Zain Jakwani,Bilal Ali|Umar Nawaz
-(Put date here):Abdullah Baig,Tanjim Haque,Yaseen Ayoub	|	Alaa Abdelsalam,Samuel Singh,Isahaaq Ali	|	Umar Nawaz
 (Put date here):Bilal Ali,Zain Jakwani,Youssef Serag	|	Ahmed Kilani,Bilal Ali,Zain Jakwani	|	Shehab Suliman
-(Put date here):Ahmed Nakhal, Yaseen Ayoub, Abdullah Baig	|	Alaa Abdelsalam, Samuel Singh, Isahaaq Ali	|	Alaa Abdelsalam
-(Put date here): Omar Serag, Tanjim Haque, Bilal Ali	|	Bilal Ali, Zain Jakwani, Youssef Serag	|	Shehab Suliman
-(Put date here): Yaseen Ayoub, Abdullah Baig, Alaa Abdelsalam	|	Alaa Abdelsalam, Samuel Singh, Isahaaq Ali	|	Umar Nawaz
 (Put date here): Bilal Ali, Omar Serag, Zain Jakwani	|	Ahmed Kilani, Bilal Ali, Zain Jakwani	|	Shehab Suliman
-(Put date here): Ahmed Nakhal, Youssef Serag, Tanjim Haque	|	Youssef Serag, Abdullah Baig, Alaa Abdelsalam	|	Alaa Abdelsalam
+(Put date here): Omar Serag, Tanjim Haque, Bilal Ali	|	Bilal Ali, Zain Jakwani, Youssef Serag	|	Shehab Suliman
 (Put date here): Yaseen Ayoub, Samuel Singh, Bilal Ali	|	Samuel Singh, Isahaaq Ali, Bilal Ali	|	Umar Nawaz
-(Put date here): Zain Jakwani, Abdullah Baig, Alaa Abdelsalam	|	Zain Jakwani, Ahmed Kilani, Alaa Abdelsalam	|	Shehab Suliman
 (Put date here): Omar Serag, Tanjim Haque, Hamzah Baadiyan	|	Youssef Serag, Bilal Ali, Isahaaq Ali	|	Bilal Ali
-(Put date here): Ahmed Nakhal, Yaseen Ayoub, Samuel Singh	|	Samuel Singh, Abdullah Baig, Alaa Abdelsalam	|	Alaa Abdelsalam
 (Put date here): Zain Jakwani, Bilal Ali, Omar Serag	|	Zain Jakwani, Ahmed Kilani, Bilal Ali	|	Umar Nawaz
-(Put date here): Nour Ali, Tanjim Haque, Abdullah Baig	|	Youssef Serag, Isahaaq Ali, Alaa Abdelsalam	|	Shehab Suliman
 (Put date here): Hamzah Baadiyan, Yaseen Ayoub, Samuel Singh	|	Samuel Singh, Bilal Ali, Zain Jakwani	|	Bilal Ali
-(Put date here): Ahmed Nakhal, Omar Serag, Nour Ali	|	Youssef Serag, Abdullah Baig, Alaa Abdelsalam	|	Shehab Suliman
 (Put date here): Tanjim Haque, Bilal Ali, Hamzah Baadiyan	|	Isahaaq Ali, Bilal Ali, Samuel Singh	|	Umar Nawaz
 (Put date here): Zain Jakwani, Ahmed Nakhal, Youssef Serag	|	Ahmed Kilani, Zain Jakwani, Youssef Serag	|	Shehab Suliman
-(Put date here): Yaseen Ayoub, Nour Ali, Abdullah Baig	|	Alaa Abdelsalam, Bilal Ali, Samuel Singh	|	Alaa Abdelsalam
 (Put date here): Omar Serag, Tanjim Haque, Ahmed Nakhal	|	Isahaaq Ali, Ahmed Kilani, Zain Jakwani	|	Umar Nawaz
 (Put date here): Hamzah Baadiyan, Youssef Serag, Yaseen Ayoub	|	Youssef Serag, Bilal Ali, Abdullah Baig	|	Bilal Ali
-(Put date here): Alaa Abdelsalam, Samuel Singh, Ahmed Nakhal	|	Alaa Abdelsalam, Samuel Singh, Ahmed Kilani	|	Shehab Suliman
-(Put date here): Nour Ali, Zain Jakwani, Tanjim Haque	|	Zain Jakwani, Isahaaq Ali, Bilal Ali	|	Umar Nawaz
-(Put date here): Omar Serag, Abdullah Baig, Hamzah Baadiyan	|	Youssef Serag, Ahmed Kilani, Alaa Abdelsalam	|	Youssef Serag
-(Put date here): Yaseen Ayoub, Ahmed Nakhal, Samuel Singh	|	Samuel Singh, Bilal Ali, Zain Jakwani	|	Bilal Ali
-(Put date here): Tanjim Haque, Omar Serag, Hamzah Baadiyan	|	Isahaaq Ali, Youssef Serag, Abdullah Baig	|	Shehab Suliman
-(Put date here): Nour Ali, Alaa Abdelsalam, Haroon Amini	|	Ahmed Kilani, Alaa Abdelsalam, Bilal Ali	|	Samuel Singh
-(Put date here): Yaseen Ayoub, Zain Jakwani, Hamzah Baadiyan	|	Zain Jakwani, Youssef Serag, Abdullah Baig	|	Umar Nawaz
-(Put date here): Ahmed Nakhal, Omar Serag, Tanjim Haque	|	Isahaaq Ali, Bilal Ali, Alaa Abdelsalam	|	Bilal Ali
-(Put date here): Samuel Singh, Nour Ali, Hamzah Baadiyan	|	Samuel Singh, Zain Jakwani, Youssef Serag	|	Shehab Suliman
-(Put date here): Abdullah Baig, Haroon Amini, Omar Serag	|	Ahmed Kilani, Bilal Ali, Alaa Abdelsalam	|	Umar Nawaz
-(Put date here): Yaseen Ayoub, Tanjim Haque, Zain Jakwani	|	Isahaaq Ali, Zain Jakwani, Youssef Serag	|	Shehab Suliman
-(Put date here): Ahmed Nakhal, Nour Ali, Samuel Singh	|	Samuel Singh, Abdullah Baig, Alaa Abdelsalam	|	Alaa Abdelsalam
-(Put date here): Hamzah Baadiyan, Bilal Ali, Yaseen Ayoub	|	Ahmed Kilani, Bilal Ali, Zain Jakwani	|	Umar Nawaz
-(Put date here): Haroon Amini, Youssef Serag, Tanjim Haque	|	Youssef Serag, Isahaaq Ali, Abdullah Baig	|	Shehab Suliman
-(Put date here): Omar Serag, Alaa Abdelsalam, Ahmed Nakhal	|	Alaa Abdelsalam, Samuel Singh, Ahmed Kilani	|	Samuel Singh
-(Put date here): Nour Ali, Hamzah Baadiyan, Zain Jakwani	|	Zain Jakwani, Bilal Ali, Youssef Serag	|	Bilal Ali
-(Put date here): Yaseen Ayoub, Abdullah Baig, Tanjim Haque	|	Isahaaq Ali, Ahmed Kilani, Alaa Abdelsalam	|	Shehab Suliman
-(Put date here): Omar Serag, Samuel Singh, Bilal Ali	|	Samuel Singh, Bilal Ali, Zain Jakwani	|	Umar Nawaz
-(Put date here): Haroon Amini, Hamzah Baadiyan, Youssef Serag	|	Youssef Serag, Abdullah Baig, Alaa Abdelsalam	|	Alaa Abdelsalam
+(Put date here): Yaseen Ayoub, Omar Serag, Hamzah Baadiyan	|	Tanjim Haque, Youssef Serag, Bilal Ali	|	Youssef Serag
+(Put date here): Ahmed Nakhal, Tanjim Haque, Zain Jakwani	|	Isahaaq Ali, Zain Jakwani, Samuel Singh	|	Shehab Suliman
+(Put date here): Nour Ali, Abdullah Baig, Haroon Amini	|	Bilal Ali, Tanjim Haque, Youssef Serag	|	Umar Nawaz
+(2/18): Hamzah Baadiyan, Zain Jakwani, Samuel Singh	|	Ahmed Kilani, Zain Jakwani, Samuel Singh	|	Sulaiman Khan
+(Put date here): Yaseen Ayoub, Tanjim Haque, Haroon Amini	|	Isahaaq Ali, Bilal Ali, Youssef Serag	|	Shehab Suliman
+(Put date here): Omar Serag, Nour Ali, Abdullah Baig	|	Zain Jakwani, Samuel Singh, Bilal Ali	|	Umar Nawaz
+(Put date here): Yaseen Ayoub, Haroon Amini, Abdullah Baig	|	Tanjim Haque, Ahmed Kilani, Youssef Serag	|	Youssef Serag
+(Put date here): Ahmed Nakhal, Hamzah Baadiyan, Youssef Serag	|	Youssef Serag, Isahaaq Ali, Tanjim Haque	|	Shehab Suliman
+(Put date here): Yaseen Ayoub, Bilal Ali, Omar Serag	|	Ahmed Kilani, Bilal Ali, Zain Jakwani	|	Zain Jakwani
+(Put date here): Nour Ali, Abdullah Baig, Samuel Singh	|	Samuel Singh, Youssef Serag, Isahaaq Ali	|	Sulaiman Khan
+(Put date here): Haroon Amini, Ahmed Nakhal, Tanjim Haque	|	Bilal Ali, Zain Jakwani, Abdullah Baig	|	Shehab Suliman
+(Put date here): Omar Serag, Youssef Serag, Nour Ali	|	Ahmed Kilani, Youssef Serag, Samuel Singh	|	Umar Nawaz
+(Put date here): Hamzah Baadiyan, Bilal Ali, Ahmed Nakhal	|	Isahaaq Ali, Bilal Ali, Zain Jakwani	|	Sulaiman Khan
+(Put date here): Yaseen Ayoub, Haroon Amini, Abdullah Baig	|	Tanjim Haque, Ahmed Kilani, Youssef Serag	|	Youssef Serag
