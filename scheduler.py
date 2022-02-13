@@ -49,3 +49,9 @@ print("This week's schedule")
 print("1st Jummah: " + ", ".join(res[0]))
 print("2nd Jummah: " + ", ".join(res[1]))
 print("3rd Jummah: " + ", ".join(res[2]))
+
+# adds the printed names to the record
+# still have to edit the date on it 
+a_file = open("jummah_records.txt", "a")
+a_file.write("(Put date here): " + "\t|\t".join( [ (", ").join(x) for x in res ] ) + "\n")
+a_file.close()
