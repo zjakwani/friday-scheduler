@@ -2,4 +2,4 @@
 1/28:Tanjim Haque,Omar Serag,Yaseen Ayoub|Samuel Singh,Isahaaq Ali,Bilal Ali|Youssef Serag
 2/4:Isahaaq Ali,Bilal Ali,Ahmed Nakhal|Omar Serag,Tanjim Haque,Umar Nawaz|Samuel Singh
 2/11:Zain Jakwani,Abdullah Baig,Omar Serag|Ahmed Kilani,Tanjim Haque,Bilal Ali|Shehab Suliman
-02/18: Hamzah Baadiyan, Yaseen Ayoub, Youssef Serag	|	Youssef Serag, Samuel Singh, Isahaaq Ali	|	Sulaiman Khan
+02/18: Hamzah Baadiyan, Yaseen Ayoub, Tanjim Haque	|	Tanjim Haque, Samuel Singh, Isahaaq Ali	|	Sulaiman Khan
