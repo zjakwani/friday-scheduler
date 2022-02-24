@@ -1,16 +1,9 @@
-1/14:Omar Serag,Yaseen Ayoub,Ahmed Nakhal,Tanjim Haque|Youssef Serag,Bilal Ali,Tanjim Haque,Zain Jakwani|Youssef Serag,Bilal Ali,Isahaaq Ali,Zain Jakwani, Sulaiman Khan, Nour Ali, Hamzah Baadiyan, Haroon Amini
+1/14:Omar Serag,Yaseen Ayoub,Ahmed Nakhal,Tanjim Haque|Youssef Serag,Bilal Ali,Tanjim Haque,Zain Jakwani|Youssef Serag,Bilal Ali,Isahaaq Ali,Zain Jakwani, Sulaiman Khan, Nour Ali, Hamzah Baadiyan
 1/28:Tanjim Haque,Omar Serag,Yaseen Ayoub|Samuel Singh,Isahaaq Ali,Bilal Ali|Youssef Serag
 2/4:Isahaaq Ali,Bilal Ali,Ahmed Nakhal|Omar Serag,Tanjim Haque,Umar Nawaz|Samuel Singh
 2/11:Zain Jakwani,Abdullah Baig,Omar Serag|Ahmed Kilani,Tanjim Haque,Bilal Ali|Shehab Suliman
 02/18: Hamzah Baadiyan, Yaseen Ayoub, Tanjim Haque	|	Tanjim Haque, Samuel Singh, Isahaaq Ali	|	Sulaiman Khan
-(2/25): Nour Ali, Youssef Serag, Ahmed Nakhal	|	Youssef Serag, Zain Jakwani, Abdullah Baig	|	Shehab Suliman
-3/04: Haroon Amini, Bilal Ali, Yaseen Ayoub	|	Ahmed Kilani, Bilal Ali, Samuel Singh	|	Sulaiman Khan
-3/11: Hamzah Baadiyan, Tanjim Haque, Zain Jakwani	|	Isahaaq Ali, Zain Jakwani, Youssef Serag	|	Umar Nawaz
-3/18: Omar Serag, Ahmed Nakhal, Abdullah Baig	|	Bilal Ali, Samuel Singh, Zain Jakwani	|	Sulaiman Khan
-3/25: Yaseen Ayoub, Haroon Amini, Youssef Serag	|	Youssef Serag, Isahaaq Ali, Tanjim Haque	|	Shehab Suliman
-4/01: Nour Ali, Hamzah Baadiyan, Bilal Ali	|	Bilal Ali, Zain Jakwani, Abdullah Baig	|	Sulaiman Khan
-4/08: Omar Serag, Samuel Singh, Youssef Serag	|	Ahmed Kilani, Samuel Singh, Youssef Serag	|	Shehab Suliman
-4/15: Yaseen Ayoub, Tanjim Haque, Abdullah Baig	|	Isahaaq Ali, Bilal Ali, Zain Jakwani	|	Umar Nawaz
-4/22: Ahmed Nakhal, Hamzah Baadiyan, Samuel Singh	|	Samuel Singh, Youssef Serag, Bilal Ali	|	Sulaiman Khan
-4/29: Haroon Amini, Omar Serag, Zain Jakwani	|	Ahmed Kilani, Zain Jakwani, Abdullah Baig	|	Umar Nawaz
-5/06: Nour Ali, Yaseen Ayoub, Tanjim Haque	|	Isahaaq Ali, Bilal Ali, Youssef Serag	|	Bilal Ali
+2/25: Nour Ali, Youssef Serag, Ahmed Nakhal	|	Youssef Serag, Zain Jakwani, Abdullah Baig	|	Shehab Suliman
+(3/04): Omar Serag, Bilal Ali, Yaseen Ayoub	|	Bilal Ali, Samuel Singh, Isahaaq Ali	|	Umar Nawaz
+(3/18): Ahmed Nakhal, Samuel Singh, Hamzah Baadiyan	|	Samuel Singh, Zain Jakwani, Isahaaq Ali	|	Umar Nawaz
+(3/25: Tanjim Haque, Bilal Ali, Omar Serag	|	Ahmed Kilani, Bilal Ali, Youssef Serag	|	Sulaiman Khan

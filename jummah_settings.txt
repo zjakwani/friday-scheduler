@@ -11,7 +11,6 @@ Alaa Abdelsalam:1,2,3
 Isahaaq Ali:2,3
 Ahmed Kilani:2
 Nour Ali:1
-Haroon Amini:1
 Abdullah Baig:1,2
 Hamzah Baadiyan:1
 Shehab Suliman:3
